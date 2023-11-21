@@ -208,6 +208,7 @@ export type OptionFlagProps = FlagProps & {
   helpValue?: string
   options?: readonly string[]
   multiple?: boolean
+  singleValue?: boolean
   /**
    * Delimiter to separate the values for a multiple value flag.
    * Only respected if multiple is set to true. Default behavior is to
