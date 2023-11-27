@@ -975,6 +975,13 @@
   dependencies:
     "@types/node" "*"
 
+"@types/cli-progress@^3.11.5":
+  version "3.11.5"
+  resolved "https://registry.yarnpkg.com/@types/cli-progress/-/cli-progress-3.11.5.tgz#9518c745e78557efda057e3f96a5990c717268c3"
+  integrity sha512-D4PbNRbviKyppS5ivBGyFO29POlySLmA2HyUFE4p5QGazAMM3CwkKWcvTl8gvElSuxRh6FPKL8XmidX873ou4g==
+  dependencies:
+    "@types/node" "*"
+
 "@types/color-convert@*":
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/@types/color-convert/-/color-convert-2.0.2.tgz#a5fa5da9b866732f8bf86b01964869011e2a2356"
@@ -994,7 +1001,7 @@
   dependencies:
     "@types/color-convert" "*"
 
-"@types/debug@^4.1.12":
+"@types/debug@^4.1.10":
   version "4.1.12"
   resolved "https://registry.yarnpkg.com/@types/debug/-/debug-4.1.12.tgz#a155f21690871953410df4b6b6f53187f0500917"
   integrity sha512-vIChWdVG3LG1SMxEvI/AK+FWJthlrqlTu7fbrlywTkkaONwk/UAGaULXRlf8vkzFBLVm0zkMdCquhL5aOjhXPQ==
